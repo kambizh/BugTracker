@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kambiz.bugtracker"
+    },
+    "jhipsterVersion": "6.3.1",
+    "applicationType": "monolith",
+    "baseName": "BugTracker",
+    "packageName": "com.kambiz.bugtracker",
+    "packageFolder": "com/kambiz/bugtracker",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YmI2MmRjNGY3OWEyYmZhM2JlY2I3YzUyZjhkOTAyNTExMmVhODVlYzgyYzFjYjNkNTY3Zjg4OTcyYzdkMjMwNjNmZTUwODc0MmY4ZTU0MWQwZmVmMTc1ZDBiMTcxZjJkODc1NGU4NWM4NzhiODMyYTM0NjY5NmNhNjE0NGQ0NzM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "cerulean",
+    "clientThemeVariant": "primary",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
